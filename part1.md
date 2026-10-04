@@ -4,39 +4,35 @@
 
 ### Cover Page
 
-**[COLLEGE NAME]**
-
-**[NAME OF DEPARTMENT]**
-
-**[UNIVERSITY NAME]**
-
-**SEMINAR REPORT**
-
-ON
+# A SEMINAR REPORT ON
 
 # MACHINE LEARNING AND SPATIAL ANALYTICS FOR ROAD TRAFFIC ACCIDENT PREDICTION, SEVERITY MODELING, AND BLACKSPOT IDENTIFICATION
 
-Submitted by
+Submitted in partial fulfillment of the requirements for the
 
-**[NAME]**
-
-**[REGISTER NUMBER]**
-
-Under the guidance of
-
-**[GUIDE NAME]**
-
-**[DESIGNATION OF GUIDE]**
-
-in partial fulfillment of the requirements for the award of the degree of
+award of the degree of
 
 **BACHELOR OF TECHNOLOGY**
 
-in
+In
 
 **CIVIL ENGINEERING**
 
-**[ACADEMIC YEAR]**
+**[COLLEGE LOGO]**
+
+Submitted by
+
+**ALLEN M T MALIYIL**
+
+**MCE23CE010**
+
+**DEPARTMENT OF CIVIL ENGINEERING**
+
+**MARIAN ENGINEERING COLLEGE,**
+
+**THIRUVANANTHAPURAM 695 582**
+
+**NOVEMBER 2026**
 
 ---
 
@@ -44,11 +40,7 @@ in
 
 # MACHINE LEARNING AND SPATIAL ANALYTICS FOR ROAD TRAFFIC ACCIDENT PREDICTION, SEVERITY MODELING, AND BLACKSPOT IDENTIFICATION
 
-A Seminar Report submitted to
-
-**[UNIVERSITY NAME]**
-
-in partial fulfillment of the requirements for the award of the degree of
+Submitted in partial fulfillment of the requirements for the award of the degree of
 
 **BACHELOR OF TECHNOLOGY**
 
@@ -58,55 +50,61 @@ in
 
 Submitted by
 
-**[NAME]**
+**ALLEN M T MALIYIL**
 
-**[REGISTER NUMBER]**
+**MCE23CE010**
 
 Under the guidance of
 
-**[GUIDE NAME]**
+**Dr. Reshmy D. S.**
 
-**[DESIGNATION]**
+**Associate Professor, Department of Civil Engineering**
 
-**[DEPARTMENT OF CIVIL ENGINEERING]**
+**DEPARTMENT OF CIVIL ENGINEERING**
 
-**[COLLEGE NAME]**
+**MARIAN ENGINEERING COLLEGE**
 
-**[PLACE]**
+**THIRUVANANTHAPURAM 695 582**
 
-**[MONTH, YEAR]**
+**NOVEMBER 2026**
 
 ---
 
 ## Certificate
 
-This is to certify that the seminar report entitled **“MACHINE LEARNING AND SPATIAL ANALYTICS FOR ROAD TRAFFIC ACCIDENT PREDICTION, SEVERITY MODELING, AND BLACKSPOT IDENTIFICATION”** is a bonafide record of the seminar work carried out by **[NAME]**, **[REGISTER NUMBER]**, student of **[PROGRAMME / SEMESTER]**, Department of Civil Engineering, **[COLLEGE NAME]**, under my guidance and supervision during the academic year **[ACADEMIC YEAR]**.
+This is to certify that the seminar report entitled **“MACHINE LEARNING AND SPATIAL ANALYTICS FOR ROAD TRAFFIC ACCIDENT PREDICTION, SEVERITY MODELING, AND BLACKSPOT IDENTIFICATION”** is a bonafide record of the seminar work carried out by **ALLEN M T MALIYIL**, **MCE23CE010**, student of Bachelor of Technology in Civil Engineering, Department of Civil Engineering, **MARIAN ENGINEERING COLLEGE**, under the guidance and supervision of **Dr. Reshmy D. S.**, Associate Professor, Department of Civil Engineering, during the academic year **2026–2027**.
 
-The seminar report is submitted in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology in Civil Engineering under **[UNIVERSITY NAME]**.
+The seminar report is submitted in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology in Civil Engineering under **APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY**.
 
-**[GUIDE NAME]**  
-Seminar Guide
+**Dr. Reshmy D. S.**  
+Seminar Guide  
+Associate Professor, Department of Civil Engineering
 
-**[HEAD OF DEPARTMENT]**  
-Head of the Department
+**Dr. Reshmy D. S.**  
+Head of the Department  
+Associate Professor, Department of Civil Engineering
 
-**[PLACE]**
+**THIRUVANANTHAPURAM 695 582**
 
-**[DATE]**
+**[CERTIFICATE DATE]**
 
 ---
 
 ## Acknowledgment
 
-I express my sincere gratitude to **[PRINCIPAL NAME]**, Principal, **[COLLEGE NAME]**, for providing the facilities and academic environment necessary for the completion of this seminar.
+The completion of this seminar titled **“Machine Learning and Spatial Analytics for Road Traffic Accident Prediction, Severity Modeling, and Blackspot Identification”** would not have been possible without the guidance, support, and encouragement of many people. I would like to express my sincere gratitude to everyone who helped me throughout this journey.
 
-I am grateful to **[HEAD OF DEPARTMENT]**, Head of the Department of Civil Engineering, for the support and encouragement provided throughout the preparation of this report.
+I am especially grateful to **Dr. Reshmy D. S.**, my seminar guide, for her valuable guidance, constant support, and constructive suggestions. Her encouragement and feedback helped me understand the topic better and complete this seminar successfully.
 
-I sincerely thank **[GUIDE NAME]**, **[DESIGNATION]**, Department of Civil Engineering, for the valuable guidance, suggestions and supervision provided during the preparation of this seminar. The discussions and technical suggestions received during the course of this work were helpful in developing a structured understanding of machine-learning and spatial-analysis approaches used in road safety research.
+I sincerely thank **Prof. Sanobiya B. S., Assistant Professor, Department of Civil Engineering**, Seminar Coordinator, for her guidance and encouragement throughout the seminar.
 
-I also acknowledge the authors and publishers of the research papers used as the principal technical sources for this seminar. Their research on accident prediction, accident severity, injury-count prediction, GIS-based hotspot identification and machine-learning-based blackspot screening provided the foundation for the preparation of this report.
+I also extend my heartfelt thanks to **Dr. Reshmy D. S., Associate Professor, Department of Civil Engineering**, Head of the Department of Civil Engineering, Marian Engineering College, for providing the facilities and support needed to complete this work. I would also like to thank all the faculty members of the Department of Civil Engineering for their encouragement and valuable guidance.
 
-Finally, I express my gratitude to my teachers, friends and family members for their support and encouragement during the preparation of this seminar report.
+I express my sincere gratitude to our respected Principal, **Dr. Ajit Prabhu V.**, for providing the facilities and supportive academic environment that made this seminar work possible.
+
+Lastly, I offer my heartfelt thanks to Almighty God for His blessings, guidance, and strength, which made the successful completion of this seminar report possible.
+
+**ALLEN M T MALIYIL**
 
 ---
 
